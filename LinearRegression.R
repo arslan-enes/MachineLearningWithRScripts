@@ -87,4 +87,3 @@ print('R2')
 R2 <- 1-SSE/SST
 print(R2)
 
-      
