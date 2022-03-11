@@ -104,3 +104,4 @@ df.test$Sex <- factor(df.test$Sex)
 df.test$Embarked <- factor(df.test$Embarked)
 
 fitted.probabilities <- predict(log.model,df.test,type = "response")
+
